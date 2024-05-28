@@ -1,4 +1,4 @@
-class Myapp < Formula
+class Assetm < Formula
   desc "Asset manager written in rust that let's you import assets into your project using terminal"
   homepage "https://github.com/HalilFocic/rust-asset-manager"
   url "https://github.com/HalilFocic/rust-asset-manager/archive/refs/tags/v1.0.1.tar.gz"
